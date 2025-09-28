@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Punta de Tarifa',
-            image: 'https://es.wikipedia.org/wiki/Punta_de_Tarifa#/media/Archivo:Tarifa_SPOT_1165.jpg',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Tarifa_SPOT_1165.jpg?20080712044113',
             description: 'El punto más meridional de la Europa continental, en Cádiz. Aquí se encuentran el Océano Atlántico y el Mar Mediterráneo, y es un lugar clave para la observación de aves migratorias.',
             location: {
             center: [-5.6102777777778, 36.004166666667],
@@ -80,7 +80,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Cap de Creus',
-            image: 'https://es.wikipedia.org/wiki/Cabo_de_Creus#/media/Archivo:Cabo_de_Creus.jpg',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cabo_de_Creus.jpg/1280px-Cabo_de_Creus.jpg',
             description: 'El punto más oriental de la Península Ibérica, en Cataluña. Un paisaje rocoso y salvaje que inspiró a Salvador Dalí, parte de un parque natural marítimo-terrestre',
             location: {
                 center: [3.3219444444444, 42.319166666667],
@@ -99,7 +99,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Cabo da Roca',
-            image: 'https://es.wikipedia.org/wiki/Cabo_de_la_Roca#/media/Archivo:Cabo_da_Roca_-_Sintra_-_060415_08.JPG',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cabo_da_Roca_-_Sintra_-_060415_08.JPG/1024px-Cabo_da_Roca_-_Sintra_-_060415_08.JPG',
             description: 'El punto más occidental de la Europa continental, en Portugal. Un acantilado impresionante con un faro, donde la tierra termina y el mar comienza.',
             location: {
                 center: [-9.50056, 38.78083],
