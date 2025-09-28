@@ -25,7 +25,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Estaca de Bares',
-            image: 'https://es.wikipedia.org/wiki/Estaca_de_Bares#/media/Archivo:Cabo_-_Punta_Estaca_de_Bares.JPG',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cabo_-_Punta_Estaca_de_Bares.JPG/1024px-Cabo_-_Punta_Estaca_de_Bares.JPG',
             description: 'El punto más septentrional de la Península Ibérica, situado en Galicia. Un lugar de gran belleza natural y un importante observatorio ornitológico.',
             location: {
                 center: [-7.68777778, 43.79027778],
